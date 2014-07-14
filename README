@@ -1,0 +1,7 @@
+batch_process - Main script used to call other functions.
+		Input parameters needed in the beginning of the script.
+ 
+read_images - Go through each stimulus folder, convert .stk files to .tiff 
+		and save. 
+
+tiffread2 - converts .stk to .tiff 
