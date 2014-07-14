@@ -5,3 +5,6 @@ read_images - Go through each stimulus folder, convert .stk files to .tiff
 		and save. 
 
 tiffread2 - converts .stk to .tiff 
+
+makeROIS - Get images from each stack, get ROIs and pixel intensity.
+		Pixel intensities are stored in a folder called RESULT in the experiment folder  
